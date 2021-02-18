@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithmic_Toolbox.iml" filepath="$PROJECT_DIR$/Algorithmic_Toolbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/From_coursera/week1_programming_challenges/week1_programming_challenges.iml" filepath="$PROJECT_DIR$/From_coursera/week1_programming_challenges/week1_programming_challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/From_coursera/week2_algorithmic_warmup/week2_algorithmic_warmup.iml" filepath="$PROJECT_DIR$/From_coursera/week2_algorithmic_warmup/week2_algorithmic_warmup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/From_coursera/week3_greedy_algorithms/week3_greedy_algorithms.iml" filepath="$PROJECT_DIR$/From_coursera/week3_greedy_algorithms/week3_greedy_algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/From_coursera/week4_divide_and_conquer/week4_divide_and_conquer.iml" filepath="$PROJECT_DIR$/From_coursera/week4_divide_and_conquer/week4_divide_and_conquer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/From_coursera/week5_dynamic_programming1/week5_dynamic_programming1.iml" filepath="$PROJECT_DIR$/From_coursera/week5_dynamic_programming1/week5_dynamic_programming1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/From_coursera/week6_dynamic_programming2/week6_dynamic_programming2.iml" filepath="$PROJECT_DIR$/From_coursera/week6_dynamic_programming2/week6_dynamic_programming2.iml" />
+    </modules>
+  </component>
+</project>
