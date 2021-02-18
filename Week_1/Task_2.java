@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Solving the Maximum Pairwise Product Programming Challenge: Improving the Naive Solution, Testing, Debugging
+// Solving the Maximum Pairwise Product Programming Challenge: Improving the Naive Solution, Testing, Debugging
 
 public class Task_2 {
     public static long multiplyTwoNumbers(long max1, long max2) {
@@ -31,7 +31,6 @@ public class Task_2 {
 //            System.out.print(arrayClean[i] + "\t");
 //        }
 //        System.out.println();
-
 
         int max_1 = 0;
         int indexMax_1 = 0;
